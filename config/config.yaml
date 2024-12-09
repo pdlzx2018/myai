@@ -1,0 +1,16 @@
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: "8012189"
+  dbname: chatnio
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password: "8012189"
+  db: 0
+
+jwt:
+  secret: "your_jwt_secret_key_chatnio_2024"
+  expire: 24 
